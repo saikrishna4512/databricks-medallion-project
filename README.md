@@ -148,6 +148,6 @@ Reusable data quality functions implemented:
 ## 👤 Author
 
 **Sai Krishna Reddy Kaithi**
-LinkedIn: https://www.linkedin.com/in/sai-krishna-reddy-kaithi-14008b27a/
+LinkedIn: https://www.linkedin.com/in/sai-krishna-reddy-k-14008b27a/
 
 This project is published for learning and portfolio purposes.
