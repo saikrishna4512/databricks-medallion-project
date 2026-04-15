@@ -1,0 +1,6 @@
+equipment_id,equipment_name,equipment_type,model,site_id
+E-FILL-01,Filler Line 1,FillFinish,FillMaster-3000,S001
+E-FILL-02,Filler Line 2,FillFinish,FillMaster-3000,S001
+E-STER-01,Sterilizer A,Sterilization,SterClean-90,S001
+E-PACK-01,Packaging Line 1,Packaging,PackPro-800,S002
+E-QC-01,QC Incubator 1,QC,IncuSafe-200,S010

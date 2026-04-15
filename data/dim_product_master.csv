@@ -1,0 +1,6 @@
+product_id,product_name,dosage_form,therapeutic_area
+P1001,VaccineX,Injection,Immunology
+P1002,VaccineY,Injection,Immunology
+P2001,SterileDrugA,IV,Oncology
+P3001,BiologicB,Injection,Rheumatology
+P1001,VaccineX,Injection,Immunology

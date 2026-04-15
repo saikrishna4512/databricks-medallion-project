@@ -1,0 +1,4 @@
+site_id,site_name,country,gmp_license,time_zone
+S001,Toronto-Plant-A,Canada,HC-ON-4471,America/Toronto
+S002,Montreal-Plant-B,Canada,HC-QC-1188,America/Toronto
+S010,Boston-Plant-C,USA,FDA-MA-9021,America/New_York
